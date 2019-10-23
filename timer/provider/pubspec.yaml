@@ -1,0 +1,16 @@
+name: flutter_timer_provider
+description: Flutter timer based on provider
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  wave: ^0.0.8
+  provider: ^3.1.0+1
+
+flutter:
+  uses-material-design: true
